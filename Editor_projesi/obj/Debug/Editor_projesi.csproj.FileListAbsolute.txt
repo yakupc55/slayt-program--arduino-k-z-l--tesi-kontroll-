@@ -1,0 +1,163 @@
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+c:\users\yakup\documents\visual studio 2015\Projects\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\adminr\Desktop\surumler\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\birlestirme\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.8\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.0.9\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\MUSTAFA KIRĞIL\Desktop\proje surumler\v.0.1.0 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.1 - Kopya - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.3 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.4 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.5 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.kontroller.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.pdb
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csprojResolveAssemblyReference.cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Form1.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.kontroller.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.Properties.Resources.resources
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.csproj.GenerateResource.Cache
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe.manifest
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.application
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7 - Kopya\Editor_projesi\Editor_projesi\bin\Debug\Editor_projesi.exe.config
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.exe
+C:\Users\yakup\Desktop\proje\proje deneme versiyonlari\v.0.1.7 - Kopya\Editor_projesi\Editor_projesi\obj\Debug\Editor_projesi.pdb
